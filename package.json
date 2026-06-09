@@ -1,8 +1,8 @@
 {
   "name": "knowledge-connector",
-  "version": "1.0.1",
-  "description": "知识连接器 - 从文档和对话中提取概念，构建知识图谱，支持查询和推荐",
-  "main": "index.js",
+  "version": "1.3.0",
+  "description": "Knowledge Connector - 可自检、可去重导入、可回答中文跨文档问题的行动型知识图谱工具",
+  "main": "src/index.js",
   "bin": {
     "knowledge-connector": "./bin/cli.js",
     "kc": "./bin/cli.js"
@@ -14,6 +14,10 @@
   "keywords": [
     "knowledge",
     "graph",
+    "knowledge-graph",
+    "cross-document-search",
+    "import-wizard",
+    "visualization",
     "nlp",
     "concept",
     "extraction",
@@ -31,10 +35,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/openclaw/knowledge-connector"
+    "url": "https://github.com/harrylabsj/knowledge-connector"
   },
   "bugs": {
-    "url": "https://github.com/openclaw/knowledge-connector/issues"
+    "url": "https://github.com/harrylabsj/knowledge-connector/issues"
   },
-  "homepage": "https://github.com/openclaw/knowledge-connector#readme"
+  "homepage": "https://github.com/harrylabsj/knowledge-connector#readme"
 }
