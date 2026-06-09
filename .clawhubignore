@@ -1,0 +1,12 @@
+*
+!CHANGELOG.md
+!README.md
+!RELEASE.md
+!SKILL.md
+!package.json
+!bin/
+!bin/cli.js
+!src/
+!src/index.js
+!test/
+!test/test.js
