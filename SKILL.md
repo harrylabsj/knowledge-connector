@@ -1,8 +1,7 @@
 ---
-name: Knowledge Connector
-description: Turn scattered notes and documents into an actionable knowledge graph. Use when the user wants an import wizard, cross-document answers, relationship maps, and concrete next-step suggestions instead of a passive graph dump.
+name: knowledge-connector
+description: "Knowledge workbench connector. Input notes, documents, or a local knowledge folder; output import guidance, relationship maps, cross-document answers, and concrete next actions. Privacy boundary: do not upload sensitive notes unless the user explicitly chooses an external tool."
 ---
-
 # Knowledge Connector
 
 Knowledge Connector should feel like a product line, not another graph utility.
