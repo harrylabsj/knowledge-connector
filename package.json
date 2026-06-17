@@ -1,6 +1,6 @@
 {
   "name": "knowledge-connector",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Knowledge workbench connector. Input notes, documents, or a local knowledge folder; output import guidance, relationship maps, cross-document answers, and concrete next actions. Privacy boundary: do not upload sensitive notes unless the user explicitly chooses an external tool.",
   "main": "src/index.js",
   "bin": {
